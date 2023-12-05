@@ -50,3 +50,4 @@ print('a'..'b')
 --使用#计算字符串长度
 len='abcd'
 print(#len)
+print()
